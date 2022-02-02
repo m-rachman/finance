@@ -1,2 +1,2 @@
 # finance
-python for fincance
+python for finance
